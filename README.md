@@ -33,4 +33,4 @@ I'm testing in other browsers.
 </div>
 
 <h2> Special Thanks:</h2>
- Thanks to Larissa kinch for the help.
+ Thanks to Larissa kinch for the help and the tutorial.
