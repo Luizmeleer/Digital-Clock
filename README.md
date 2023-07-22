@@ -32,5 +32,10 @@ I'm testing in other browsers.
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
+<h2>Release notes:</h2>
+<div>
+- Funtional hour.
+</div>
+
 <h2> Special Thanks:</h2>
  Thanks to Larissa kinch for the help and the tutorial.
