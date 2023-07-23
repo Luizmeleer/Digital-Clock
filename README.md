@@ -36,6 +36,9 @@ I'm testing in other browsers.
 <div>
 - Funtional hour.
 </div>
+<div>
+- Bugs fixed.
+</div>
 
 <h2> Special Thanks:</h2>
  Thanks to Larissa kinch for the help and the tutorial.
