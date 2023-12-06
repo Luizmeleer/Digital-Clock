@@ -6,7 +6,7 @@
 </div>
 
 <h2>About:</h2>
- Digital Clock is a project Html, Css and Javascript (My first project using the three lenguages). Following a tutorial on YouTube, i thinkthis one project will help beginers, how he also helped me. I want to keep updating it.
+ Digital Clock is a project Html, Css and Javascript (My first project using the three lenguages). 
 <h2>Features:</h2>
 <div>
 -☀️Dark and Light mode🌒;
