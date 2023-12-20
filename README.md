@@ -17,15 +17,6 @@
 <div>
 -🤔More features coming soon🤔.
 </div>
-<h2>Available in:</h2>
-<div>
-  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
-  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg"/>
-  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg"/>
-  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/>
-  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg"/>
-</div>
-I'm testing in other browsers.
 
 <h2>Made in:</h2>
 <div>
